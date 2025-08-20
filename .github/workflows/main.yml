@@ -34,8 +34,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "glopapa"
-          git config --global user.email "high@sub.trade-mastery.com"
+          git config --global user.name "luke-bill"
+          git config --global user.email "simioneleo19@gmail.com"
 
       - name: Push changes
         run: |
